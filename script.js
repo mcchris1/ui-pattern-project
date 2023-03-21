@@ -21,4 +21,4 @@ function displayImage(e) {
     });
 }
 
-displayImage();
+displayImage(); 
